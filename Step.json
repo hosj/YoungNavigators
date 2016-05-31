@@ -1,0 +1,28 @@
+{
+		"step": 0,
+		"description": "",
+		"completed": false
+		"completed_dt": "",
+		"type": "",
+		"extra_strings": [],
+		"countdown_from": 0,
+		"countdown_current": 0,
+		"countdown_last_text": "",
+		"key_val": [],
+		"table_row_header":[],
+		"table_col_header":[],
+		"table_rows":[],
+		"notes":""
+		 
+		
+}
+
+
+//extra_strings key value
+
+
+
+// available types
+//	countdown
+//	key_val
+//	table
